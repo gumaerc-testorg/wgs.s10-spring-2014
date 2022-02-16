@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 703eae1b-c9ac-3a61-fe70-714a62568f27
 ---
@@ -315,7 +317,7 @@ Experiential: Envisioning / exploring next steps
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Work in the 21st century: Pressure points for change
+Work in the 21{{< sup "st" >}} century: Pressure points for change
 {{< tdclose >}}
 {{< tdopen >}}
 Final paper presentation in debate form

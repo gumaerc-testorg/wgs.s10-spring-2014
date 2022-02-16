@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: bdf92811-4c98-34d4-1857-e73a31a5d505
 ---
@@ -30,8 +33,8 @@ A paper prospectus is due on session 10. This prospectus should describe what yo
 
 [Research / policy paper options (PDF)]({{< baseurl >}}/resources/mitwgs_s10s14_pap_opt)
 
-Final Paper and Presentations: Work in the 21st Century: Pressure Points for Change
------------------------------------------------------------------------------------
+Final Paper and Presentations: Work in the 21{{< sup "st" >}} Century: Pressure Points for Change
+-------------------------------------------------------------------------------------------------
 
 What is the most powerful strategy (or strategies) for improving the lives of women and men in and / or outside of the workplace? Should the government provide universal policies that create a floor of opportunity for all? Should the market (e.g., the private sector) be responsible for these policies? What should the role of workers be, either as individuals or via organized labor? For the final paper, you have two choices:
 

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c6f821aa-8e56-b4a0-d638-f3f16ae31594
 ---
@@ -448,7 +451,7 @@ No readings
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Work in the 21st century: Pressure points for change
+Work in the 21{{< sup "st" >}} century: Pressure points for change
 {{< tdclose >}}
 {{< tdopen >}}
 No readings

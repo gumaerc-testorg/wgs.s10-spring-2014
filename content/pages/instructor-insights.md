@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: ec1b67ba-8860-4d27-3140-8d9588a13793
 ---
@@ -63,20 +65,6 @@ None
 WGS.S10 is offered every spring semester. It is a special topics course, and the subject matter changes each year.
 
 _
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![wgs-s10-classroom.jpg]({{< resource_file 14e27665-533c-e8ef-84db-06024ca6533b >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    A picture of the classroom where the course took place. The classroom features moveable tables and chairs with a capacity of 40 students.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

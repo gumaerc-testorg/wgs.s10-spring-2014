@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
+parent_uid: 529a7e2a-6431-e5ff-1567-fb575c3ba42c
 resourcetype: Document
 title: 'Affirming the Need for Action: A Closer Look at Affirmative Action Policies'
 uid: c507d913-0f01-ee7d-ebb1-b3045fbe1de1

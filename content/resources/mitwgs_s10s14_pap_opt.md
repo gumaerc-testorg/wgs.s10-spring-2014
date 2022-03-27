@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bdf92811-4c98-34d4-1857-e73a31a5d505
 resourcetype: Document
 title: Research/Policy Paper Options
 uid: 3f4f0c5f-b599-e026-46d0-4cb5c46ce756

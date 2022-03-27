@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
+parent_uid: 529a7e2a-6431-e5ff-1567-fb575c3ba42c
 resourcetype: Document
 title: International Women in Politics
 uid: 9ab29bde-bf87-594b-6bc9-d157339072da

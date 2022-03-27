@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
+parent_uid: 529a7e2a-6431-e5ff-1567-fb575c3ba42c
 resourcetype: Document
 title: The Division of Household Labor in Traditional Families
 uid: 7966ee58-a80f-3d11-ca73-626811f61568

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
+parent_uid: 529a7e2a-6431-e5ff-1567-fb575c3ba42c
 resourcetype: Document
 title: Every Woman is a Masterpiece
 uid: 392b8971-6203-119c-5623-3d5c564aa7c6

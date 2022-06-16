@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ This paper can be fun to write! You can work on this paper alone or in pairs; it
 
 A paper prospectus is due on session 10. This prospectus should describe what you plan to write about and an outline of your paper. The prospectus will not be graded! It is simply an opportunity for you to get feedback from the instructor about your ideas. I will give you written commentary, offering you suggestions about how to proceed. You are welcome to make an appointment with me to discuss this paper as well.
 
-[Research / policy paper options (PDF)]({{< baseurl >}}/resources/mitwgs_s10s14_pap_opt)
+{{% resource_link 3f4f0c5f-b599-e026-46d0-4cb5c46ce756 "Research / policy paper options (PDF)" %}}
 
 Final Paper and Presentations: Work in the 21{{< sup "st" >}} Century: Pressure Points for Change
 -------------------------------------------------------------------------------------------------

@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides examples of student work for the course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: bdf92811-4c98-34d4-1857-e73a31a5d505
 title: Student Work
 uid: 529a7e2a-6431-e5ff-1567-fb575c3ba42c
@@ -27,7 +32,7 @@ STUDENT name
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-["Every Woman is a Masterpiece." (PDF)]({{< baseurl >}}/resources/mitwgs_s10s14_masterpiece)
+{{% resource_link 392b8971-6203-119c-5623-3d5c564aa7c6 "\"Every Woman is a Masterpiece.\" (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Noa Ghersin
@@ -36,7 +41,7 @@ Noa Ghersin
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-["Affirming the Need for Action: A Closer Look at Affirmative Action Policies." (PDF)]({{< baseurl >}}/resources/mitwgs_s10s14_fin_affimat)
+{{% resource_link c507d913-0f01-ee7d-ebb1-b3045fbe1de1 "\"Affirming the Need for Action: A Closer Look at Affirmative Action Policies.\" (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 An MIT student
@@ -45,7 +50,7 @@ An MIT student
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-["The Division of Household Labor in Traditional Families." (PDF)]({{< baseurl >}}/resources/mitwgs_s10s14_fin_labor)
+{{% resource_link 7966ee58-a80f-3d11-ca73-626811f61568 "\"The Division of Household Labor in Traditional Families.\" (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 An MIT student
@@ -64,7 +69,7 @@ An MIT student
 
 Reaction paper from session 15.
 
-[Government Policy (PDF)]({{< baseurl >}}/resources/mitwgs_s10s14_ses15_pap)
+{{% resource_link 1d106250-2b9f-812d-b3da-664486fe60c7 "Government Policy (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -79,7 +84,7 @@ An MIT student
 
 Discussion presentation notes from sessions 16 and 17. 
 
- [International Women in Politics (PDF)]({{< baseurl >}}/resources/mitwgs_s10s14_pres_women)
+ {{% resource_link 9ab29bde-bf87-594b-6bc9-d157339072da "International Women in Politics (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -94,7 +99,7 @@ An MIT student
 
 Discussion presentation notes from sessions 16 and 17 (cont.)
 
-[Women in politics (PDF)]({{< baseurl >}}/resources/mitwgs_s10s14_pres_women2)
+{{% resource_link 4789e439-e544-cda2-06d4-d3b902712742 "Women in politics (PDF)" %}}
 
 
 {{< tdclose >}}

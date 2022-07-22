@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, requirements, required readings, and recommended
+  readings.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1588e17a-12f1-c652-99fa-ba2d4334b142
 ---
@@ -83,7 +88,7 @@ Final 8-page paper and presentation in which students explore strategies and / o
 
 {{< tableclose >}}
 
-See [Assignments section]({{< baseurl >}}/pages/assignments) for more information.
+See {{% resource_link bdf92811-4c98-34d4-1857-e73a31a5d505 "Assignments section" %}} for more information.
 
 Required Readings
 -----------------

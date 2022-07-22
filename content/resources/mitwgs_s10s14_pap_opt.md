@@ -5,6 +5,7 @@ file: /courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/3f4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Research/Policy Paper Options
 uid: 3f4f0c5f-b599-e026-46d0-4cb5c46ce756
 ---
 Suggested topics for a writing assignment.
-

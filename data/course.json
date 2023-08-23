@@ -56,8 +56,10 @@
     "website": "wgs-s10-gender-power-leadership-and-the-workplace-spring-2014"
   },
   "learning_resource_types": [
-    "Written Assignments with Examples"
+    "Written Assignments with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "0622ed54-ce82-4ecb-ab51-59c556ab82a7",
+  "site_uid": "49171668-c83d-4c84-a5cf-4019d33e3765",
+  "site_short_id": "wgs.s10-spring-2014",
   "title": "Course Metadata"
 }

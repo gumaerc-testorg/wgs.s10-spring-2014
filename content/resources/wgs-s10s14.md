@@ -4,6 +4,7 @@ description: During an International Women's Day demonstration in Valencia, Spai
   women gathered to collectively breastfeed to advocate for their rights as working
   mothers. Image courtesy of Amadeu Sanz on Flickr. CC NC-BY-SA.
 file: /courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/2888e7c93814bc3ade6901fbee38bb10_wgs-s10s14.jpg
+file_size: 75335
 file_type: image/jpeg
 image_metadata:
   caption: During an International Women's Day demonstration in Valencia, Spain, women

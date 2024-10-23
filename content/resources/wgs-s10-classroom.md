@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/14e27665533ce8ef84db06024ca6533b_wgs-s10-classroom.jpg
+file: /ol-ocw-studio-app/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/14e27665533ce8ef84db06024ca6533b_wgs-s10-classroom.jpg
 file_size: 100305
 file_type: image/jpeg
 image_metadata:

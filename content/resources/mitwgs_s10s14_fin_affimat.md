@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work for the final project of the course.
-file: /courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/c507d9130f01ee7debb1b3045fbe1de1_MITWGS_S10S14_Fin_affimat.pdf
+file: /ol-ocw-studio-app/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/c507d9130f01ee7debb1b3045fbe1de1_MITWGS_S10S14_Fin_affimat.pdf
 file_size: 188546
 file_type: application/pdf
 learning_resource_types: []

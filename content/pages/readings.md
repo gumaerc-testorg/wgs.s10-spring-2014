@@ -64,12 +64,12 @@ No additional readings
 The squeeze at the bottom: Gender, race and poverty
 {{< tdclose >}}{{< tdopen >}}
 
-Neely, Barbara. *Blanche on the Lam*. Penguin Books, 1993. ISBN: 9780140174397.     
+Neely, Barbara. *Blanche on the Lam*. Penguin Books, 1993. ISBN: 9780140174397.      
 (Prize-winning mystery novel about ingenious African-American domestic worker-sleuth who uncovers murder in the home of a wealthy household that employs her.)
 
 Or
 
-Acker, Joan. "\[Inequality Regimes: Gender, Class, and Race in Organizations\]([http://dx.doi.org/](http://dx.doi.org/) 10.1177/0891243206289499)." *Gender and Society* 20, no. 4 (2006): 441–64.     
+Acker, Joan. "\[Inequality Regimes: Gender, Class, and Race in Organizations\]([http://dx.doi.org/](http://dx.doi.org/) 10.1177/0891243206289499)." *Gender and Society* 20, no. 4 (2006): 441–64.      
 (Examines foundations of structural inequality by race, gender and class.)
 
 "[Who is Poor?](https://www.irp.wisc.edu/resources/who-is-poor/)" Institute for Research on Poverty, University of Wisconsin.
@@ -118,7 +118,7 @@ Hanson, Susan, and Geraldine Pratt. "Employer Practices, Local Labor Markets, an
 
 ### Recommended
 
-Reskin, Barbara, and Patricia Roos. Chapters 5, 7, 8, and 12 in *Job Queues, Gender Queues*. Temple University Press, 1990. ISBN:     
+Reskin, Barbara, and Patricia Roos. Chapters 5, 7, 8, and 12 in *Job Queues, Gender Queues*. Temple University Press, 1990. ISBN:      
 9780877227434.
 
 "[Women, Minorities, and Persons with Disabilities in Science and Engineering](http://www.nsf.gov/statistics/wmpd/2013/start.cfm?CFID=15922685&CFTOKEN=85708676&jsessionid=f030ce2248af4903f06b521103431752b843)." National Science Foundation, 2013.
@@ -143,7 +143,7 @@ Sandberg, Sheryl. *Lean In: Women, Work, and the Will to Lead.* Knopf Doubleday 
 
 Kantor, Jodi, and Jessica Silver-Greenberg. "[Wall Street Mothers, Stay-Home Fathers](http://www.nytimes.com/2013/12/08/us/wall-street-mothers-stay-home-fathers.html?_r=1&)," *The New York Times*, December 7, 2013.
 
-["Missing Pieces: Women and Minorities on Fortune 500 Boards." (PDF - 1.4MB)](https://www.catalyst.org/research/missing-pieces-women-and-minorities-on-fortune-500-boards-2010-alliance-for-board-diversity-census/) 2010 Alliance for Board Diversity Census. July 21, 2011.
+"Missing Pieces: Women and Minorities on Fortune 500 Boards." 2010 Alliance for Board Diversity Census. July 21, 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14

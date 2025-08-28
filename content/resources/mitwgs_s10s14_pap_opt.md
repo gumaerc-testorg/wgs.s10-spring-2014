@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Suggested topics for a writing assignment.
-file: /courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/3f4f0c5fb599e02646d04cb5c46ce756_MITWGS_S10S14_pap_opt.pdf
+file: /ol-ocw-studio-app/courses/wgs-s10-gender-power-leadership-and-the-workplace-spring-2014/3f4f0c5fb599e02646d04cb5c46ce756_MITWGS_S10S14_pap_opt.pdf
 file_size: 122099
 file_type: application/pdf
 learning_resource_types:

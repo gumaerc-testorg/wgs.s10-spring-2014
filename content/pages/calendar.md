@@ -30,7 +30,7 @@ Experiential: Exploring work experience with a race / gender / class lens
 
 Historical background: How did we get here?
 
-Film: Field, Connie. [*The Life and Times of Rosie the Riveter*](http://www.clarityfilms.org/rosie/). Clarity Films, 1981.
+Film: Field, Connie. {{% resource_link "f83f6208-67d7-4621-8ef2-edb322b9145a" "*The Life and Times of Rosie the Riveter*" %}}. Clarity Films, 1981.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -47,7 +47,7 @@ Experiential: Conceptualizing theory through visual art
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
-Play reading: Daniel, Sarah. "[Gut Girls](http://www.dramaonlinelibrary.com/plays/the-gut-girls-iid-127477#login-panel-reader)." In *Daniels Plays: 2: Gut Girls, Beside Herself, Head-rot Holiday, Madness of Esme and Shaz*. Bloomsbury Methuen Drama, 1994. ISBN: 9780413690401. \[Preview with [Google Books](http://books.google.com/books?id=IqcVAgAAQBAJ&pg=PA1#v=onepage)\]
+Play reading: Daniel, Sarah. "{{% resource_link "d6189b89-8cc5-40d7-8a93-a6803b9b8802" "Gut Girls" %}}." In *Daniels Plays: 2: Gut Girls, Beside Herself, Head-rot Holiday, Madness of Esme and Shaz*. Bloomsbury Methuen Drama, 1994. ISBN: 9780413690401. \[Preview with {{% resource_link "976effe6-6420-42ed-b06a-7180886ceefa" "Google Books" %}}\]
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -72,9 +72,9 @@ Bordas' principles
 
 Panel of community leaders: Gender, race / ethnicity and community organizing:
 
-- [Jovanna Garcia-Soto](https://commonbound.org/speaker/jovanna-garcia-soto), Grassroots International (formerly Chelsea Collaborative)
-- [Darlene Lombos](https://gblc.us/leadership/darlene-lombos), Executive Director, Community Labor United
-- [Brian Corr](http://www.briancorr.com/), Cambridge Peace Commission
+- {{% resource_link "a017e3d7-2fb2-41c5-957b-efe3aee8cc36" "Jovanna Garcia-Soto" %}}, Grassroots International (formerly Chelsea Collaborative)
+- {{% resource_link "17bab05a-81ee-4296-9e75-f98a938cd96e" "Darlene Lombos" %}}, Executive Director, Community Labor United
+- {{% resource_link "7504d690-6285-41a5-9e7a-4c4914047d3c" "Brian Corr" %}}, Cambridge Peace Commission
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -87,7 +87,7 @@ Paper prospectus and outline due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-Film: Razasa, Maple, and Pacho Velez. [*Occupation: A Film About the Harvard Living Wage Sit-In*](https://vimeo.com/200170537). Filmakers Library, 2002.
+Film: Razasa, Maple, and Pacho Velez. {{% resource_link "324412fe-60df-4f1f-a1f5-040f99842b57" "*Occupation: A Film About the Harvard Living Wage Sit-In*" %}}. Filmakers Library, 2002.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -96,7 +96,7 @@ Film: Razasa, Maple, and Pacho Velez. [*Occupation: A Film About the Harvard Liv
 
 Women in corporate leadership
 
-Film: Soderbergh, Steven. [*Erin Brockovich*](http://www.imdb.com/title/tt0195685/). Universal Pictures, 2000.
+Film: Soderbergh, Steven. {{% resource_link "99b92633-14a9-4d32-91ca-abef10fe6123" "*Erin Brockovich*" %}}. Universal Pictures, 2000.
 
 {{< tdclose >}}{{< tdopen >}}
 Mid-term paper due

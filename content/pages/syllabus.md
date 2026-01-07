@@ -93,11 +93,11 @@ See {{% resource_link bdf92811-4c98-34d4-1857-e73a31a5d505 "Assignments section"
 Required Readings
 -----------------
 
-Bordas, Juana. _Salsa, Soul and Spirit: Leadership for a Multicultural Age_. Barrett-Koehler Publishers, 2012. ISBN: 9781609941178. \[Preview with {{% resource_link "61430005-5ba2-4122-a4b7-9c4c143aacb4" "Google Books" %}}\]
+Bordas, Juana. _Salsa, Soul and Spirit: Leadership for a Multicultural Age_. Barrett-Koehler Publishers, 2012. ISBN: 9781609941178. \[Preview with [Google Books](http://books.google.com/books?id=YZ0cOYy8vTEC&printsec=frontcover)\]
 
-Sandberg, Sheryl. _Lean In: Women, Work, and the Will to Lead_. Knopf Doubleday Publishers, 2013. ISBN: 9780385349949. \[Preview with {{% resource_link "b0bb237b-c54b-4d42-9345-eb0b9ec6bd7f" "Google Books" %}}\]
+Sandberg, Sheryl. _Lean In: Women, Work, and the Will to Lead_. Knopf Doubleday Publishers, 2013. ISBN: 9780385349949. \[Preview with [Google Books](http://books.google.com/books?id=xH_3HwSYVdcC&pg=PAfrontcover)\]
 
-Fried, Mindy. _Taking Time: Parental Leave Policy and Corporate Culture_. Temple University Press, 1998. ISBN: 9781566396462. \[Preview with {{% resource_link "d8a6d54d-1d72-49b3-8e90-ef6bb1735700" "Google Books" %}}\]
+Fried, Mindy. _Taking Time: Parental Leave Policy and Corporate Culture_. Temple University Press, 1998. ISBN: 9781566396462. \[Preview with [Google Books](http://books.google.com/books?id=KkehA_jggfoC&printsec=frontcover)\]
 
 Recommended
 -----------
